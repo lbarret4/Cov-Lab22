@@ -1,0 +1,8 @@
+div{
+    background-color:beige;
+    display:inline-flex;
+    flex-direction: column;
+    padding: 2em;
+    width: 25vw;
+    text-align: center;
+}
